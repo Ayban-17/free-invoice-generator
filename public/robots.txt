@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://free-invoice-generator-ph.netlify.app/sitemap.xml
